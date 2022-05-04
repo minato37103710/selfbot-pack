@@ -8,12 +8,12 @@ setuptools.setup(
     version="0.0.1",
     author="orarange",
     author_email="arigatoudane@outlook.jp",
-    description="this is an tiny url Python wrapper",
+    description="This package is for creating a discord self bot",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/minato37103710/Tiny-url-Wrapper",
+    url="https://github.com/minato37103710/selfbot-pack",
     project_urls={
-        "Bug Tracker": "https://github.com/minato37103710/Tiny-url-Wrapper/issues",
+        "Bug Tracker": "https://github.com/minato37103710/selfbot-pack/issues",
     },
     classifiers=[
         "Programming Language :: Python :: 3",
